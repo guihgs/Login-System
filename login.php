@@ -30,8 +30,7 @@ require_once "inc/config.php"; ?>
 			    </div>
 
 			</form>
-  		</div>
-  	</div>
+  		</div
 
 
 <?php include "footer.php"; ?>
